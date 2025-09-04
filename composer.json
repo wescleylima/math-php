@@ -1,5 +1,5 @@
 {
-  "name": "wescley/math-php",
+  "name": "wescleylima/math-php",
   "description": "Biblioteca para cálculos monetários precisos usando string e BCMath",
   "type": "library",
   "license": "MIT",
