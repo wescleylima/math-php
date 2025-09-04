@@ -1,9 +1,9 @@
 # INSTALL
 
-composer require wescley/math-php
+composer require wescleylima/math-php
 
 # SAMPLE
-
+```
 use Wescley\Math\Money;
 
 $value1 = "10.50123";
@@ -22,3 +22,4 @@ $price1->subtract($price2);
 $price1->multiply($price2);
 $price1->divide($price2);
 echo $price1->getAmount();
+```
